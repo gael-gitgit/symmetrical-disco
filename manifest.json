@@ -1,0 +1,29 @@
+{
+  "version": 105,
+  "last_updated": "2026-02-25",
+  "prices_file": {
+    "version": 42,
+    "filename": "prices.json.gz",
+    "size_bytes": 155000
+  },
+  "sets": {
+    "AOR": {
+      "v": 1,
+      "name": "Ancient Origins",
+      "filename": "sets/AOR.json.gz",
+      "count": 98
+    },
+    "BS": {
+      "v": 2,
+      "name": "Base Set",
+      "filename": "sets/BS.json.gz",
+      "count": 102
+    },
+    "SV1": {
+      "v": 1,
+      "name": "Scarlet & Violet",
+      "filename": "sets/SV1.json.gz",
+      "count": 198
+    }
+  }
+}
