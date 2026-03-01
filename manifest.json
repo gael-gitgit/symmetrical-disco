@@ -1,29 +1,1085 @@
 {
-  "version": 108,
-  "last_updated": "2026-02-25",
-  "prices_file": {
-    "version": 42,
-    "filename": "prices.json.gz",
-    "size_bytes": 155000
-  },
-  "sets": {
-    "AOR": {
-      "v": 2,
-      "name": "Ancient Origins",
-      "filename": "sets/AOR.json.gz",
-      "count": 98
+    "version": 1309,
+    "last_updated": "2026-02-25",
+    "prices_file": {
+        "version": 42,
+        "filename": "prices.json.gz",
+        "size_bytes": 155000
     },
-    "BS": {
-      "v": 3,
-      "name": "Base Set",
-      "filename": "sets/BS.json.gz",
-      "count": 102
-    },
-    "SV1": {
-      "v": 1,
-      "name": "Scarlet & Violet",
-      "filename": "sets/SV1.json.gz",
-      "count": 198
+    "sets": {
+        "AOR": {
+            "v": 7,
+            "name": "Ancient Origins",
+            "filename": "sets/AOR.json.gz",
+            "count": 98
+        },
+        "BS": {
+            "v": 9,
+            "name": "Base Set",
+            "filename": "sets/BS.json.gz",
+            "count": 102
+        },
+        "SV1": {
+            "v": 1,
+            "name": "Scarlet & Violet",
+            "filename": "sets/SV1.json.gz",
+            "count": 198
+        },
+        "JU": {
+            "v": 6,
+            "name": "Jungle",
+            "filename": "sets/JU.json.gz",
+            "count": 64
+        },
+        "WP": {
+            "v": 6,
+            "name": "Wizards Black Star Promos",
+            "filename": "sets/WP.json.gz",
+            "count": 53
+        },
+        "null": {
+            "v": 126,
+            "name": "W Promotional",
+            "filename": "sets/None.json.gz",
+            "count": 7
+        },
+        "FO": {
+            "v": 6,
+            "name": "Fossil",
+            "filename": "sets/FO.json.gz",
+            "count": 62
+        },
+        "BS2": {
+            "v": 6,
+            "name": "Base Set 2",
+            "filename": "sets/BS2.json.gz",
+            "count": 130
+        },
+        "TR": {
+            "v": 6,
+            "name": "Team Rocket",
+            "filename": "sets/TR.json.gz",
+            "count": 83
+        },
+        "G1": {
+            "v": 6,
+            "name": "Gym Heroes",
+            "filename": "sets/G1.json.gz",
+            "count": 132
+        },
+        "G2": {
+            "v": 6,
+            "name": "Gym Challenge",
+            "filename": "sets/G2.json.gz",
+            "count": 132
+        },
+        "N1": {
+            "v": 6,
+            "name": "Neo Genesis",
+            "filename": "sets/N1.json.gz",
+            "count": 111
+        },
+        "N2": {
+            "v": 6,
+            "name": "Neo Discovery",
+            "filename": "sets/N2.json.gz",
+            "count": 75
+        },
+        "SI": {
+            "v": 6,
+            "name": "Southern Islands",
+            "filename": "sets/SI.json.gz",
+            "count": 18
+        },
+        "N3": {
+            "v": 6,
+            "name": "Neo Revelation",
+            "filename": "sets/N3.json.gz",
+            "count": 66
+        },
+        "N4": {
+            "v": 6,
+            "name": "Neo Destiny",
+            "filename": "sets/N4.json.gz",
+            "count": 113
+        },
+        "LC": {
+            "v": 6,
+            "name": "Legendary Collection",
+            "filename": "sets/LC.json.gz",
+            "count": 110
+        },
+        "E1": {
+            "v": 6,
+            "name": "Expedition Base Set",
+            "filename": "sets/E1.json.gz",
+            "count": 165
+        },
+        "E2": {
+            "v": 6,
+            "name": "Aquapolis",
+            "filename": "sets/E2.json.gz",
+            "count": 186
+        },
+        "E3": {
+            "v": 6,
+            "name": "Skyridge",
+            "filename": "sets/E3.json.gz",
+            "count": 182
+        },
+        "RS": {
+            "v": 6,
+            "name": "Ruby & Sapphire",
+            "filename": "sets/RS.json.gz",
+            "count": 109
+        },
+        "SS": {
+            "v": 6,
+            "name": "Sandstorm",
+            "filename": "sets/SS.json.gz",
+            "count": 100
+        },
+        "NP": {
+            "v": 6,
+            "name": "Nintendo Black Star Promos",
+            "filename": "sets/NP.json.gz",
+            "count": 40
+        },
+        "DR": {
+            "v": 6,
+            "name": "Dragon",
+            "filename": "sets/DR.json.gz",
+            "count": 100
+        },
+        "MA": {
+            "v": 6,
+            "name": "Team Magma vs Team Aqua",
+            "filename": "sets/MA.json.gz",
+            "count": 97
+        },
+        "HL": {
+            "v": 6,
+            "name": "Hidden Legends",
+            "filename": "sets/HL.json.gz",
+            "count": 102
+        },
+        "TK1O": {
+            "v": 6,
+            "name": "EX trainer Kit (Latios)",
+            "filename": "sets/TK1O.json.gz",
+            "count": 10
+        },
+        "TK1A": {
+            "v": 6,
+            "name": "EX trainer Kit (Latias)",
+            "filename": "sets/TK1A.json.gz",
+            "count": 10
+        },
+        "RG": {
+            "v": 6,
+            "name": "FireRed & LeafGreen",
+            "filename": "sets/RG.json.gz",
+            "count": 116
+        },
+        "P1": {
+            "v": 6,
+            "name": "POP Series 1",
+            "filename": "sets/P1.json.gz",
+            "count": 17
+        },
+        "TRR": {
+            "v": 6,
+            "name": "Team Rocket Returns",
+            "filename": "sets/TRR.json.gz",
+            "count": 111
+        },
+        "DX": {
+            "v": 6,
+            "name": "Deoxys",
+            "filename": "sets/DX.json.gz",
+            "count": 108
+        },
+        "EM": {
+            "v": 6,
+            "name": "Emerald",
+            "filename": "sets/EM.json.gz",
+            "count": 107
+        },
+        "P2": {
+            "v": 6,
+            "name": "POP Series 2",
+            "filename": "sets/P2.json.gz",
+            "count": 17
+        },
+        "UF": {
+            "v": 12,
+            "name": "Unseen Forces Unown Collection",
+            "filename": "sets/UF.json.gz",
+            "count": 28
+        },
+        "DS": {
+            "v": 6,
+            "name": "Delta Species",
+            "filename": "sets/DS.json.gz",
+            "count": 114
+        },
+        "LM": {
+            "v": 6,
+            "name": "Legend Maker",
+            "filename": "sets/LM.json.gz",
+            "count": 93
+        },
+        "TK2P": {
+            "v": 6,
+            "name": "EX trainer Kit 2 (Plusle)",
+            "filename": "sets/TK2P.json.gz",
+            "count": 12
+        },
+        "TK2M": {
+            "v": 6,
+            "name": "EX trainer Kit 2 (Minun)",
+            "filename": "sets/TK2M.json.gz",
+            "count": 12
+        },
+        "P3": {
+            "v": 6,
+            "name": "POP Series 3",
+            "filename": "sets/P3.json.gz",
+            "count": 17
+        },
+        "HP": {
+            "v": 6,
+            "name": "Holon Phantoms",
+            "filename": "sets/HP.json.gz",
+            "count": 111
+        },
+        "P4": {
+            "v": 6,
+            "name": "POP Series 4",
+            "filename": "sets/P4.json.gz",
+            "count": 17
+        },
+        "CG": {
+            "v": 6,
+            "name": "Crystal Guardians",
+            "filename": "sets/CG.json.gz",
+            "count": 100
+        },
+        "DF": {
+            "v": 6,
+            "name": "Dragon Frontiers",
+            "filename": "sets/DF.json.gz",
+            "count": 101
+        },
+        "PK": {
+            "v": 6,
+            "name": "Power Keepers",
+            "filename": "sets/PK.json.gz",
+            "count": 108
+        },
+        "P5": {
+            "v": 6,
+            "name": "POP Series 5",
+            "filename": "sets/P5.json.gz",
+            "count": 17
+        },
+        "DP": {
+            "v": 6,
+            "name": "Diamond & Pearl",
+            "filename": "sets/DP.json.gz",
+            "count": 130
+        },
+        "DPP": {
+            "v": 6,
+            "name": "DP Black Star Promos",
+            "filename": "sets/DPP.json.gz",
+            "count": 56
+        },
+        "MT": {
+            "v": 6,
+            "name": "Mysterious Treasures",
+            "filename": "sets/MT.json.gz",
+            "count": 124
+        },
+        "P6": {
+            "v": 6,
+            "name": "POP Series 6",
+            "filename": "sets/P6.json.gz",
+            "count": 17
+        },
+        "TK3L": {
+            "v": 6,
+            "name": "DP trainer Kit (Lucario)",
+            "filename": "sets/TK3L.json.gz",
+            "count": 11
+        },
+        "TK3M": {
+            "v": 6,
+            "name": "DP trainer Kit (Manaphy)",
+            "filename": "sets/TK3M.json.gz",
+            "count": 12
+        },
+        "SW": {
+            "v": 6,
+            "name": "Secret Wonders",
+            "filename": "sets/SW.json.gz",
+            "count": 132
+        },
+        "GE": {
+            "v": 6,
+            "name": "Great Encounters",
+            "filename": "sets/GE.json.gz",
+            "count": 106
+        },
+        "P7": {
+            "v": 6,
+            "name": "POP Series 7",
+            "filename": "sets/P7.json.gz",
+            "count": 17
+        },
+        "MD": {
+            "v": 6,
+            "name": "Majestic Dawn",
+            "filename": "sets/MD.json.gz",
+            "count": 100
+        },
+        "LA": {
+            "v": 6,
+            "name": "Legends Awakened",
+            "filename": "sets/LA.json.gz",
+            "count": 146
+        },
+        "P8": {
+            "v": 6,
+            "name": "POP Series 8",
+            "filename": "sets/P8.json.gz",
+            "count": 17
+        },
+        "SF": {
+            "v": 6,
+            "name": "Stormfront",
+            "filename": "sets/SF.json.gz",
+            "count": 106
+        },
+        "PL": {
+            "v": 6,
+            "name": "Platinum",
+            "filename": "sets/PL.json.gz",
+            "count": 133
+        },
+        "P9": {
+            "v": 6,
+            "name": "POP Series 9",
+            "filename": "sets/P9.json.gz",
+            "count": 17
+        },
+        "RR": {
+            "v": 6,
+            "name": "Rising Rivals",
+            "filename": "sets/RR.json.gz",
+            "count": 120
+        },
+        "SV": {
+            "v": 6,
+            "name": "Supreme Victors",
+            "filename": "sets/SV.json.gz",
+            "count": 153
+        },
+        "AR": {
+            "v": 6,
+            "name": "Arceus",
+            "filename": "sets/AR.json.gz",
+            "count": 111
+        },
+        "RM": {
+            "v": 6,
+            "name": "Pokémon Rumble",
+            "filename": "sets/RM.json.gz",
+            "count": 16
+        },
+        "HS": {
+            "v": 6,
+            "name": "HeartGold SoulSilver",
+            "filename": "sets/HS.json.gz",
+            "count": 124
+        },
+        "HSP": {
+            "v": 6,
+            "name": "HGSS Black Star Promos",
+            "filename": "sets/HSP.json.gz",
+            "count": 25
+        },
+        "TK4G": {
+            "v": 6,
+            "name": "HS trainer Kit (Gyarados)",
+            "filename": "sets/TK4G.json.gz",
+            "count": 30
+        },
+        "TK4R": {
+            "v": 6,
+            "name": "HS trainer Kit (Raichu)",
+            "filename": "sets/TK4R.json.gz",
+            "count": 30
+        },
+        "UL": {
+            "v": 6,
+            "name": "Unleashed",
+            "filename": "sets/UL.json.gz",
+            "count": 96
+        },
+        "UD": {
+            "v": 6,
+            "name": "Undaunted",
+            "filename": "sets/UD.json.gz",
+            "count": 91
+        },
+        "TM": {
+            "v": 6,
+            "name": "Triumphant",
+            "filename": "sets/TM.json.gz",
+            "count": 103
+        },
+        "CL": {
+            "v": 6,
+            "name": "Call of Legends",
+            "filename": "sets/CL.json.gz",
+            "count": 106
+        },
+        "BLW": {
+            "v": 6,
+            "name": "Black & White",
+            "filename": "sets/BLW.json.gz",
+            "count": 115
+        },
+        "BWP": {
+            "v": 6,
+            "name": "BW Black Star Promos",
+            "filename": "sets/BWP.json.gz",
+            "count": 101
+        },
+        "MCD11": {
+            "v": 6,
+            "name": "Macdonald's Collection 2011",
+            "filename": "sets/MCD11.json.gz",
+            "count": 12
+        },
+        "EPO": {
+            "v": 6,
+            "name": "Emerging Powers",
+            "filename": "sets/EPO.json.gz",
+            "count": 98
+        },
+        "TK5Z": {
+            "v": 6,
+            "name": "BW trainer Kit (Zoroark)",
+            "filename": "sets/TK5Z.json.gz",
+            "count": 30
+        },
+        "TK5E": {
+            "v": 6,
+            "name": "BW trainer Kit (Excadrill)",
+            "filename": "sets/TK5E.json.gz",
+            "count": 30
+        },
+        "NVI": {
+            "v": 6,
+            "name": "Noble Victories",
+            "filename": "sets/NVI.json.gz",
+            "count": 102
+        },
+        "NXD": {
+            "v": 6,
+            "name": "Next Destinies",
+            "filename": "sets/NXD.json.gz",
+            "count": 103
+        },
+        "DEX": {
+            "v": 6,
+            "name": "Dark Explorers",
+            "filename": "sets/DEX.json.gz",
+            "count": 111
+        },
+        "MCD12": {
+            "v": 6,
+            "name": "Macdonald's Collection 2012",
+            "filename": "sets/MCD12.json.gz",
+            "count": 12
+        },
+        "DRX": {
+            "v": 6,
+            "name": "Dragons Exalted",
+            "filename": "sets/DRX.json.gz",
+            "count": 128
+        },
+        "DRV": {
+            "v": 6,
+            "name": "Dragon Vault",
+            "filename": "sets/DRV.json.gz",
+            "count": 21
+        },
+        "BCR": {
+            "v": 6,
+            "name": "Boundaries Crossed",
+            "filename": "sets/BCR.json.gz",
+            "count": 153
+        },
+        "PLS": {
+            "v": 6,
+            "name": "Plasma Storm",
+            "filename": "sets/PLS.json.gz",
+            "count": 138
+        },
+        "PLF": {
+            "v": 6,
+            "name": "Plasma Freeze",
+            "filename": "sets/PLF.json.gz",
+            "count": 122
+        },
+        "PLB": {
+            "v": 6,
+            "name": "Plasma Blast",
+            "filename": "sets/PLB.json.gz",
+            "count": 105
+        },
+        "XYP": {
+            "v": 12,
+            "name": "XY Black Star Promos",
+            "filename": "sets/XYP.json.gz",
+            "count": 216
+        },
+        "LTR": {
+            "v": 6,
+            "name": "Legendary Treasures",
+            "filename": "sets/LTR.json.gz",
+            "count": 140
+        },
+        "KSS": {
+            "v": 6,
+            "name": "Kalos Starter Set",
+            "filename": "sets/KSS.json.gz",
+            "count": 39
+        },
+        "XY": {
+            "v": 6,
+            "name": "XY",
+            "filename": "sets/XY.json.gz",
+            "count": 146
+        },
+        "TK6S": {
+            "v": 6,
+            "name": "XY trainer Kit (Sylveon)",
+            "filename": "sets/TK6S.json.gz",
+            "count": 30
+        },
+        "TK6N": {
+            "v": 6,
+            "name": "XY trainer Kit (Noivern)",
+            "filename": "sets/TK6N.json.gz",
+            "count": 30
+        },
+        "FLF": {
+            "v": 6,
+            "name": "Flashfire",
+            "filename": "sets/FLF.json.gz",
+            "count": 110
+        },
+        "MCD14": {
+            "v": 6,
+            "name": "Macdonald's Collection 2014",
+            "filename": "sets/MCD14.json.gz",
+            "count": 12
+        },
+        "FFI": {
+            "v": 6,
+            "name": "Furious Fists",
+            "filename": "sets/FFI.json.gz",
+            "count": 114
+        },
+        "TK7A": {
+            "v": 6,
+            "name": "XY trainer Kit (Bisharp)",
+            "filename": "sets/TK7A.json.gz",
+            "count": 30
+        },
+        "TK7B": {
+            "v": 6,
+            "name": "XY trainer Kit (Wigglytuff)",
+            "filename": "sets/TK7B.json.gz",
+            "count": 30
+        },
+        "PHF": {
+            "v": 6,
+            "name": "Phantom Forces",
+            "filename": "sets/PHF.json.gz",
+            "count": 124
+        },
+        "PRC": {
+            "v": 6,
+            "name": "Primal Clash",
+            "filename": "sets/PRC.json.gz",
+            "count": 164
+        },
+        "DCR": {
+            "v": 6,
+            "name": "Double Crisis",
+            "filename": "sets/DCR.json.gz",
+            "count": 34
+        },
+        "TK8A": {
+            "v": 6,
+            "name": "XY trainer Kit (Latias)",
+            "filename": "sets/TK8A.json.gz",
+            "count": 30
+        },
+        "TK8O": {
+            "v": 6,
+            "name": "XY trainer Kit (Latios)",
+            "filename": "sets/TK8O.json.gz",
+            "count": 30
+        },
+        "ROS": {
+            "v": 6,
+            "name": "Roaring Skies",
+            "filename": "sets/ROS.json.gz",
+            "count": 112
+        },
+        "BKT": {
+            "v": 6,
+            "name": "BREAKthrough",
+            "filename": "sets/BKT.json.gz",
+            "count": 165
+        },
+        "MCD15": {
+            "v": 6,
+            "name": "Macdonald's Collection 2015",
+            "filename": "sets/MCD15.json.gz",
+            "count": 12
+        },
+        "BKP": {
+            "v": 6,
+            "name": "BREAKpoint",
+            "filename": "sets/BKP.json.gz",
+            "count": 126
+        },
+        "GEN": {
+            "v": 6,
+            "name": "Generations",
+            "filename": "sets/GEN.json.gz",
+            "count": 117
+        },
+        "TK9P": {
+            "v": 6,
+            "name": "XY trainer Kit (Pikachu Libre)",
+            "filename": "sets/TK9P.json.gz",
+            "count": 30
+        },
+        "TK9S": {
+            "v": 6,
+            "name": "XY trainer Kit (Suicune)",
+            "filename": "sets/TK9S.json.gz",
+            "count": 30
+        },
+        "FCO": {
+            "v": 6,
+            "name": "Fates Collide",
+            "filename": "sets/FCO.json.gz",
+            "count": 129
+        },
+        "STS": {
+            "v": 6,
+            "name": "Steam Siege",
+            "filename": "sets/STS.json.gz",
+            "count": 116
+        },
+        "MCD16": {
+            "v": 6,
+            "name": "Macdonald's Collection 2016",
+            "filename": "sets/MCD16.json.gz",
+            "count": 12
+        },
+        "EVO": {
+            "v": 6,
+            "name": "Evolutions",
+            "filename": "sets/EVO.json.gz",
+            "count": 113
+        },
+        "SUM": {
+            "v": 6,
+            "name": "Sun & Moon",
+            "filename": "sets/SUM.json.gz",
+            "count": 172
+        },
+        "SMP": {
+            "v": 6,
+            "name": "SM Black Star Promos",
+            "filename": "sets/SMP.json.gz",
+            "count": 244
+        },
+        "TK10L": {
+            "v": 6,
+            "name": "SM trainer Kit (Lycanroc)",
+            "filename": "sets/TK10L.json.gz",
+            "count": 30
+        },
+        "TK10A": {
+            "v": 6,
+            "name": "SM trainer Kit (Alolan Raichu)",
+            "filename": "sets/TK10A.json.gz",
+            "count": 30
+        },
+        "GRI": {
+            "v": 6,
+            "name": "Guardians Rising",
+            "filename": "sets/GRI.json.gz",
+            "count": 169
+        },
+        "MCD17": {
+            "v": 6,
+            "name": "Macdonald's Collection 2017",
+            "filename": "sets/MCD17.json.gz",
+            "count": 12
+        },
+        "BUS": {
+            "v": 6,
+            "name": "Burning Shadows",
+            "filename": "sets/BUS.json.gz",
+            "count": 169
+        },
+        "SLG": {
+            "v": 6,
+            "name": "Shining Legends",
+            "filename": "sets/SLG.json.gz",
+            "count": 78
+        },
+        "CIN": {
+            "v": 6,
+            "name": "Crimson Invasion",
+            "filename": "sets/CIN.json.gz",
+            "count": 125
+        },
+        "UPR": {
+            "v": 6,
+            "name": "Ultra Prism",
+            "filename": "sets/UPR.json.gz",
+            "count": 173
+        },
+        "FLI": {
+            "v": 6,
+            "name": "Forbidden Light",
+            "filename": "sets/FLI.json.gz",
+            "count": 146
+        },
+        "CES": {
+            "v": 6,
+            "name": "Celestial Storm",
+            "filename": "sets/CES.json.gz",
+            "count": 183
+        },
+        "DRM": {
+            "v": 6,
+            "name": "Dragon Majesty",
+            "filename": "sets/DRM.json.gz",
+            "count": 78
+        },
+        "MCD18": {
+            "v": 6,
+            "name": "Macdonald's Collection 2018",
+            "filename": "sets/MCD18.json.gz",
+            "count": 12
+        },
+        "LOT": {
+            "v": 6,
+            "name": "Lost Thunder",
+            "filename": "sets/LOT.json.gz",
+            "count": 236
+        },
+        "TEU": {
+            "v": 6,
+            "name": "Team Up",
+            "filename": "sets/TEU.json.gz",
+            "count": 196
+        },
+        "DET": {
+            "v": 6,
+            "name": "Detective Pikachu",
+            "filename": "sets/DET.json.gz",
+            "count": 18
+        },
+        "UNB": {
+            "v": 6,
+            "name": "Unbroken Bonds",
+            "filename": "sets/UNB.json.gz",
+            "count": 234
+        },
+        "UNM": {
+            "v": 6,
+            "name": "Unified Minds",
+            "filename": "sets/UNM.json.gz",
+            "count": 258
+        },
+        "HIF": {
+            "v": 6,
+            "name": "Hidden Fates",
+            "filename": "sets/HIF.json.gz",
+            "count": 69
+        },
+        "MCD19": {
+            "v": 6,
+            "name": "Macdonald's Collection 2019",
+            "filename": "sets/MCD19.json.gz",
+            "count": 12
+        },
+        "CEC": {
+            "v": 6,
+            "name": "Cosmic Eclipse",
+            "filename": "sets/CEC.json.gz",
+            "count": 271
+        },
+        "SP": {
+            "v": 6,
+            "name": "SWSH Black Star Promos",
+            "filename": "sets/SP.json.gz",
+            "count": 287
+        },
+        "SSH": {
+            "v": 6,
+            "name": "Sword & Shield",
+            "filename": "sets/SSH.json.gz",
+            "count": 216
+        },
+        "RCL": {
+            "v": 6,
+            "name": "Rebel Clash",
+            "filename": "sets/RCL.json.gz",
+            "count": 209
+        },
+        "DAA": {
+            "v": 6,
+            "name": "Darkness Ablaze",
+            "filename": "sets/DAA.json.gz",
+            "count": 201
+        },
+        "FUT20": {
+            "v": 6,
+            "name": "Pokémon Futsal 2020",
+            "filename": "sets/FUT20.json.gz",
+            "count": 5
+        },
+        "CPA": {
+            "v": 6,
+            "name": "Champion's Path",
+            "filename": "sets/CPA.json.gz",
+            "count": 80
+        },
+        "VIV": {
+            "v": 6,
+            "name": "Vivid Voltage",
+            "filename": "sets/VIV.json.gz",
+            "count": 203
+        },
+        "MCD21": {
+            "v": 6,
+            "name": "Macdonald's Collection 2021",
+            "filename": "sets/MCD21.json.gz",
+            "count": 25
+        },
+        "SHF": {
+            "v": 6,
+            "name": "Shining Fates",
+            "filename": "sets/SHF.json.gz",
+            "count": 195
+        },
+        "BST": {
+            "v": 6,
+            "name": "Battle Styles",
+            "filename": "sets/BST.json.gz",
+            "count": 183
+        },
+        "CRE": {
+            "v": 6,
+            "name": "Chilling Reign",
+            "filename": "sets/CRE.json.gz",
+            "count": 233
+        },
+        "EVS": {
+            "v": 6,
+            "name": "Evolving Skies",
+            "filename": "sets/EVS.json.gz",
+            "count": 237
+        },
+        "CEL": {
+            "v": 6,
+            "name": "Celebrations",
+            "filename": "sets/CEL.json.gz",
+            "count": 51
+        },
+        "FST": {
+            "v": 6,
+            "name": "Fusion Strike",
+            "filename": "sets/FST.json.gz",
+            "count": 284
+        },
+        "BRS": {
+            "v": 6,
+            "name": "Brilliant Stars",
+            "filename": "sets/BRS.json.gz",
+            "count": 216
+        },
+        "ASR": {
+            "v": 6,
+            "name": "Astral Radiance",
+            "filename": "sets/ASR.json.gz",
+            "count": 246
+        },
+        "PGO": {
+            "v": 6,
+            "name": "Pokémon GO",
+            "filename": "sets/PGO.json.gz",
+            "count": 88
+        },
+        "LOR": {
+            "v": 6,
+            "name": "Lost Origin",
+            "filename": "sets/LOR.json.gz",
+            "count": 247
+        },
+        "SIT": {
+            "v": 6,
+            "name": "Silver Tempest",
+            "filename": "sets/SIT.json.gz",
+            "count": 245
+        },
+        "CRZ": {
+            "v": 6,
+            "name": "Crown Zenith",
+            "filename": "sets/CRZ.json.gz",
+            "count": 230
+        },
+        "SVP": {
+            "v": 6,
+            "name": "SVP Black Star Promos",
+            "filename": "sets/SVP.json.gz",
+            "count": 219
+        },
+        "SVI": {
+            "v": 6,
+            "name": "Scarlet & Violet",
+            "filename": "sets/SVI.json.gz",
+            "count": 258
+        },
+        "PAL": {
+            "v": 6,
+            "name": "Paldea Evolved",
+            "filename": "sets/PAL.json.gz",
+            "count": 279
+        },
+        "OBF": {
+            "v": 6,
+            "name": "Obsidian Flames",
+            "filename": "sets/OBF.json.gz",
+            "count": 230
+        },
+        "MEW": {
+            "v": 6,
+            "name": "151",
+            "filename": "sets/MEW.json.gz",
+            "count": 207
+        },
+        "PAR": {
+            "v": 6,
+            "name": "Paradox Rift",
+            "filename": "sets/PAR.json.gz",
+            "count": 266
+        },
+        "PAF": {
+            "v": 6,
+            "name": "Paldean Fates",
+            "filename": "sets/PAF.json.gz",
+            "count": 245
+        },
+        "TEF": {
+            "v": 6,
+            "name": "Temporal Forces",
+            "filename": "sets/TEF.json.gz",
+            "count": 218
+        },
+        "TWM": {
+            "v": 6,
+            "name": "Twilight Masquerade",
+            "filename": "sets/TWM.json.gz",
+            "count": 226
+        },
+        "SFA": {
+            "v": 6,
+            "name": "Shrouded Fable",
+            "filename": "sets/SFA.json.gz",
+            "count": 99
+        },
+        "SCR": {
+            "v": 6,
+            "name": "Stellar Crown",
+            "filename": "sets/SCR.json.gz",
+            "count": 175
+        },
+        "SSP": {
+            "v": 6,
+            "name": "Surging Sparks",
+            "filename": "sets/SSP.json.gz",
+            "count": 252
+        },
+        "PRE": {
+            "v": 6,
+            "name": "Prismatic Evolutions",
+            "filename": "sets/PRE.json.gz",
+            "count": 180
+        },
+        "JTG": {
+            "v": 6,
+            "name": "Journey Together",
+            "filename": "sets/JTG.json.gz",
+            "count": 190
+        },
+        "DRI": {
+            "v": 6,
+            "name": "Destined Rivals",
+            "filename": "sets/DRI.json.gz",
+            "count": 244
+        },
+        "BLK": {
+            "v": 6,
+            "name": "Black Bolt",
+            "filename": "sets/BLK.json.gz",
+            "count": 172
+        },
+        "WHT": {
+            "v": 6,
+            "name": "White Flare",
+            "filename": "sets/WHT.json.gz",
+            "count": 173
+        },
+        "MEG": {
+            "v": 6,
+            "name": "Mega Evolution",
+            "filename": "sets/MEG.json.gz",
+            "count": 188
+        },
+        "MEP": {
+            "v": 6,
+            "name": "MEP Black Star Promos",
+            "filename": "sets/MEP.json.gz",
+            "count": 10
+        },
+        "PFL": {
+            "v": 6,
+            "name": "Phantasmal Flames",
+            "filename": "sets/PFL.json.gz",
+            "count": 130
+        },
+        "ASC": {
+            "v": 6,
+            "name": "Ascended Heroes",
+            "filename": "sets/ASC.json.gz",
+            "count": 295
+        }
     }
-  }
 }
