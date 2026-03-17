@@ -2,6 +2,12 @@
 
 > **Astuce :** Si vous ne trouvez pas la réponse à votre question, contactez-nous par email.
 
+
+---
+
+## Des questions, des remarques ?
+Faîtes-nous part de vos questions et de vos remarques: **contact.skanit@gmail.com**
+
 ---
 
 ## 📸 Le Scanner (IA & Détection)
@@ -51,6 +57,9 @@ Si l'application semble instable ou si vos données ne s'affichent plus correcte
 2. Effectuez un **Export de votre collection** (Backup JSON) par sécurité.
 3. Utilisez l'option **"Réinitialiser l'application"** dans la Zone de Danger.
 4. Ré-importez votre sauvegarde.
+
+
+
 
 ### Comment se passent les mises à jour ?
 Les mises à jour des données (nouvelles séries de cartes) vous seront **proposées automatiquement** au lancement de l'application dès qu'elles sont disponibles.
