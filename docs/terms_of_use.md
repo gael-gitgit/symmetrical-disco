@@ -9,10 +9,10 @@
 
 **Dernière mise à jour : 13 Mars 2026**
 
-Bienvenue sur **PokeScan**. En utilisant cette application, vous acceptez les présentes conditions.
+Bienvenue sur **Skanit**. En utilisant cette application, vous acceptez les présentes conditions.
 
 ### 1. Description du Service
-PokeScan est un outil de scan et de gestion de collection de cartes de jeu à collectionner (TCG). Les fonctionnalités incluent la détection automatique et l'estimation des prix via des API tierces.
+Skanit est un outil de scan et de gestion de collection de cartes de jeu à collectionner (TCG). Les fonctionnalités incluent la détection automatique et l'estimation des prix via des API tierces.
 
 ### 2. Avertissement sur les Prix (Disclaimer)
 * **Estimations uniquement :** Les prix affichés sont des estimations basées sur des données de marché tierces. Ils sont fournis à titre purement **indicatif**.
@@ -26,7 +26,7 @@ PokeScan est un outil de scan et de gestion de collection de cartes de jeu à co
 Votre collection est stockée **localement** sur votre téléphone. L'éditeur n'est pas responsable de la perte de vos données en cas de suppression de l'application, de perte ou de vol du téléphone sans sauvegarde préalable (Export JSON).
 
 ### 5. Contact
-Pour toute question : **[TON_EMAIL_DE_SUPPORT]**
+Pour toute question : **contact.skanit@gmail.com**
 
 ---
 
@@ -35,10 +35,10 @@ Pour toute question : **[TON_EMAIL_DE_SUPPORT]**
 
 **Last Updated: March 13, 2026**
 
-Welcome to **PokeScan**. By using this application, you agree to these terms.
+Welcome to **Skanit**. By using this application, you agree to these terms.
 
 ### 1. Description of Service
-PokeScan is a tool for scanning and managing trading card game (TCG) collections. Features include automatic detection and price estimation via third-party APIs.
+Skanit is a tool for scanning and managing trading card game (TCG) collections. Features include automatic detection and price estimation via third-party APIs.
 
 ### 2. Price Disclaimer
 * **Estimates Only:** Prices displayed are estimates based on third-party market data. They are provided for **informational purposes only**.
@@ -52,4 +52,4 @@ PokeScan is a tool for scanning and managing trading card game (TCG) collections
 Your collection is stored **locally** on your phone. The developer is not responsible for any data loss occurring from app deletion, phone loss, or theft without a prior backup (JSON Export).
 
 ### 5. Contact
-For any questions: **[YOUR_SUPPORT_EMAIL]**
+For any questions: **contact.skanit@gmail.com**
