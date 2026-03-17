@@ -8,11 +8,11 @@
 
 **Last Updated: March 13, 2026**
 
-This Privacy Policy describes how **PokeScan** (the "Service") handles your information. As an independent developer, protecting your privacy is my top priority.
+This Privacy Policy describes how **Skanit** (the "Service") handles your information. As an independent developer, protecting your privacy is my top priority.
 
 
 ## 1. Data Collection
-**PokeScan is designed to be used anonymously.**
+**Skanit is designed to be used anonymously.**
 * **No Account Required:** You do not need to create an account, provide an email address, or a name to use the application.
 * **Personal Data:** We do not collect, sell, or rent your personally identifiable information.
 
@@ -50,11 +50,11 @@ If you have any questions, you can contact me at:
 
 **Dernière mise à jour : 13 Mars 2026**
 
-Cette politique de confidentialité décrit comment **PokeScan** (le "Service") traite vos informations. En tant que développeur indépendant, la protection de votre vie privée est au cœur de ma démarche.
+Cette politique de confidentialité décrit comment **Skanit** (le "Service") traite vos informations. En tant que développeur indépendant, la protection de votre vie privée est au cœur de ma démarche.
 
 
 ## 1. Collecte des Données
-**PokeScan est conçu pour être utilisé de manière anonyme.**
+**Skanit est conçu pour être utilisé de manière anonyme.**
 * **Aucun compte requis :** Vous n'avez pas besoin de créer un compte, de fournir un e-mail ou un nom pour utiliser l'application.
 * **Données personnelles :** Nous ne collectons, ne vendons, ni ne louons vos informations personnelles identifiables.
 
