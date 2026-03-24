@@ -29,7 +29,6 @@ All data related to your card collection is stored **locally** on your device vi
 
 ## 4. Third-Party Services and Analytics
 To improve the user experience, we use the following services:
-* **Firebase Analytics:** We collect anonymous technical data (phone model, app crashes, most used features). No data that could personally identify you is transmitted.
 * **Card APIs:** Card information and images are retrieved via public APIs. No user information is shared with these services.
 
 ## 5. Children's Privacy
@@ -41,7 +40,7 @@ In accordance with data protection laws (GDPR/CCPA), you maintain full control:
 
 ## 7. Contact
 If you have any questions, you can contact me at:  
-**[YOUR_SUPPORT_EMAIL]**
+**contact.skanit@gmail.com**
 
 
 ---
@@ -83,5 +82,5 @@ Conformément aux lois sur la protection des données (RGPD), vous gardez le con
 
 ## 7. Contact
 Pour toute question, vous pouvez me contacter à l'adresse suivante :  
-**[TON_EMAIL_DE_SUPPORT]**
+**contact.skanit@gmail.com**
 
