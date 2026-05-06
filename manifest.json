@@ -2,7 +2,7 @@
     "version": 1309,
     "last_updated": "2026-02-25",
     "prices_file": {
-        "version": 43,
+        "version": 44,
         "filename": "prices.json.gz",
         "size_bytes": 155000
     },
