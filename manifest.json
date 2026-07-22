@@ -6,6 +6,10 @@
         "filename": "card_prices.json.gz",
         "size_bytes": 155000
     },
+    "rates_file": {
+        "version": 1,
+        "filename": "rates.json"
+    },
     "content_packs" : [
         "content_pack_2026_05_28.json.gz",
         "content_pack_2026_06_19.json.gz",
