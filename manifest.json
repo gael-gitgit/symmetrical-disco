@@ -1,13 +1,13 @@
 {
     "version": 1309,
-    "last_updated": "2026-07-21",
+    "last_updated": "2026-08-03",
     "prices_file": {
-        "version": 48,
+        "version": 49,
         "filename": "card_prices.json.gz",
         "size_bytes": 155000
     },
     "rates_file": {
-        "version": 1,
+        "version": 2,
         "filename": "rates.json"
     },
     "content_packs" : [
