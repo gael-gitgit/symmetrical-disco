@@ -15,6 +15,9 @@
         "content_pack_2026_06_19.json.gz",
         "content_pack_2026_07_21.json.gz"
     ],
+    "content_packs_v2" : [
+        "clip_big_embs_2026_08_21.json.gz"
+    ],
     
     "sets": {
         "AOR": {
