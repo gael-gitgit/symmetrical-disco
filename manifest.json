@@ -2,12 +2,12 @@
     "version": 1309,
     "last_updated": "2026-08-03",
     "prices_file": {
-        "version": 50,
+        "version": 51,
         "filename": "card_prices.json.gz",
         "size_bytes": 155000
     },
     "rates_file": {
-        "version": 2,
+        "version": 3,
         "filename": "rates.json"
     },
     "content_packs" : [
@@ -16,13 +16,8 @@
         "content_pack_2026_07_21.json.gz"
     ],
     "content_packs_v2" : [
-        "clip_big_embs_2026_08_23.json.gz",
-        "content_pack_2026_08_24.json.gz"
+        "big_embs_2026_08_26.json.gz",
     ],
-    "content_packs_v3" : [
-        "clip_big_embs_2026_08_26.json.gz"
-    ],
-    
     "sets": {
         "AOR": {
             "v": 7,
