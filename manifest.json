@@ -13,11 +13,12 @@
     "content_packs" : [
         "content_pack_2026_05_28.json.gz",
         "content_pack_2026_06_19.json.gz",
-        "content_pack_2026_07_21.json.gz",
-        "content_pack_2026_09_20?json.gz"
+        "content_pack_2026_07_21.json.gz"
+        
     ],
     "content_packs_v2" : [
-        "big_embs_2026_08_26.json.gz"
+        "big_embs_2026_08_26.json.gz",
+        "content_pack_2026_09_21.json.gz"
     ],
     "sets": {
         "AOR": {
