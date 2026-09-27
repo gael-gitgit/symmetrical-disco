@@ -2,7 +2,7 @@
     "version": 1309,
     "last_updated": "2026-08-03",
     "prices_file": {
-        "version": 53,
+        "version": 54,
         "filename": "card_prices.json.gz",
         "size_bytes": 155000
     },
@@ -18,7 +18,8 @@
     ],
     "content_packs_v2" : [
         "big_embs_2026_08_26.json.gz",
-        "content_pack_2026_09_21.json.gz"
+        "content_pack_2026_09_21.json.gz",
+        "content_pack_2026_09_27.json.gz"
     ],
     "sets": {
         "AOR": {
