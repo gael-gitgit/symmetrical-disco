@@ -2,7 +2,7 @@
     "version": 1309,
     "last_updated": "2026-08-03",
     "prices_file": {
-        "version": 54,
+        "version": 55,
         "filename": "card_prices.json.gz",
         "size_bytes": 155000
     },
